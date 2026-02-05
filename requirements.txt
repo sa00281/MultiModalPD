@@ -1,1 +1,12 @@
-ÿþ
+ipynb-py-convert==0.4.6
+joblib==1.5.3
+lightning-utilities==0.15.2
+mkl-service==2.5.2
+numpy==1.26.4
+scikit-learn==1.8.0
+scipy==1.17.0
+threadpoolctl==3.6.0
+torch==2.2.2
+torchinfo==1.8.0
+torchmetrics==1.8.2
+torchvision==0.17.2
